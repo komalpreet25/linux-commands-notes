@@ -19,7 +19,7 @@ man = show command manual/help
 sudo = run command as admin 
 
 # File Management commands
-'''bash
+```bash
 ls -la = show all files (including hidden) in long format
 cd .. = go one directory back
 cd ~ = go to home directory
@@ -39,3 +39,4 @@ ip a = show IP address and network interfaces
 wget = download file from internet
 curl = fetch data from URL
 history = show previously used commands
+```
