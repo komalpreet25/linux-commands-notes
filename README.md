@@ -18,7 +18,7 @@ whoami = show current user
 clear = clear terminal screen  
 man = show command manual/help  
 sudo = run command as admin 
-```bash
+```
 
 # File Management commands
 ```bash
