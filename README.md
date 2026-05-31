@@ -2,6 +2,7 @@
 This repository contains basic Linux commands and their usage for beginners.
 
 # 🐧 Linux Basic Commands
+```bash
 ls = list files in directory  
 pwd = show current directory path  
 cd = change directory  
@@ -17,6 +18,7 @@ whoami = show current user
 clear = clear terminal screen  
 man = show command manual/help  
 sudo = run command as admin 
+```bash
 
 # File Management commands
 ```bash
