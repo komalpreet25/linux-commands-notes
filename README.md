@@ -19,6 +19,7 @@ man = show command manual/help
 sudo = run command as admin 
 
 # File Management commands
+'''bash
 ls -la = show all files (including hidden) in long format
 cd .. = go one directory back
 cd ~ = go to home directory
