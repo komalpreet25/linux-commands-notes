@@ -42,3 +42,4 @@ wget = download file from internet
 curl = fetch data from URL
 history = show previously used commands
 ```
+
